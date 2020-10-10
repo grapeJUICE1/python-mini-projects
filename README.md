@@ -15,6 +15,8 @@ Below is the list of projects....
 
 * [Sudoku Solver](https://github.com/grapeJUICE1/python-mini-projects/blob/main/sudoku-solver.py) : This program solves a valid sudoku board using the backtracking algorithm...run the code [here](https://repl.it/@GrapeJUICE/Sudoku-Solver)
 
+* [Blackjack](https://github.com/grapeJUICE1/python-mini-projects/blob/main/blackjack.py) : This program basically tries to replicate blackjack....See the code in action  [here](https://repl.it/@GrapeJUICE/BLACKJACK#main.py)
+
 
 
 If u have any issues or u wanna contact me...U can mail me here: abraraar93@gmail.com

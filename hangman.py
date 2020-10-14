@@ -3,7 +3,7 @@ import random
 import sys
 
 
-lst = ['arbitrary' ,'bald','hello' , 'difficult' , 'dictionary' , 'musicbreathren' , 'genre' , 'ambition' , 'python' , 'snake' , 'game','guitar']
+lst = ['arbitrary' ,'bald','hello' , 'difficult' , 'dictionary' , 'music','breathren' , 'genre' , 'ambition' , 'python' , 'snake' , 'game','guitar']
 
 word = lst[random.randint(0 , len(lst) - 1)]
 out = '_'*len(word)

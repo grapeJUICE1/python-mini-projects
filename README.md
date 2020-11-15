@@ -17,9 +17,9 @@ Below is the list of projects....
 
 * [Blackjack](https://github.com/grapeJUICE1/python-mini-projects/blob/main/blackjack.py) : This program basically tries to replicate blackjack....See the code in action  [here](https://repl.it/@GrapeJUICE/BLACKJACK#main.py)
 
+* [Snake Game](https://github.com/grapeJUICE1/python-mini-projects/blob/main/snake.py) : A snake game made using pygame, I also wrote a blog post which was about pygame where we made this game, check that out [here](https://dev.to/grapejuice/getting-started-with-pygame-making-a-snake-game-2i1g)
 
 
-If u have any issues or u wanna contact me...U can mail me here: abraraar93@gmail.com
 
 
 

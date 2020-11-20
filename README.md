@@ -10,7 +10,7 @@ Below is the list of projects....
 : My first python project..it basically asks for number of characters , numbers , symbols u want in ur password and generate it for you...U can see the code in action [here](https://repl.it/@GrapeJUICE/Python-Password-Generator)
 
 * [Number Guessing](https://github.com/grapeJUICE1/python-mini-projects/blob/main/NumberGuesser.py)
-: A python program which generates a number between 1 to 100 and let the user guess it... You can run the code herer[here](https://repl.it/@GrapeJUICE/LoyalOldlaceMonads#main.py)
+: A python program which generates a number between 1 to 100 and let the user guess it... You can run the code [here](https://repl.it/@GrapeJUICE/LoyalOldlaceMonads#main.py)
 
 * [Hangman](https://github.com/grapeJUICE1/python-mini-projects/blob/main/hangman.py) : Hangman , which i tried to recreate in python..U can run the code [here](https://repl.it/@GrapeJUICE/HANGMAN-Python#main.py)
 

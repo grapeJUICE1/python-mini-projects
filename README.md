@@ -12,6 +12,9 @@ Below is the list of projects....
 * [Number Guessing](https://github.com/grapeJUICE1/python-mini-projects/blob/main/NumberGuesser.py)
 : A python program which generates a number between 1 to 100 and let the user guess it... You can run the code [here](https://repl.it/@GrapeJUICE/Number-Guessing-Game)
 
+* [Rock Paper Scissor Lizard Spock](https://github.com/grapeJUICE1/python-mini-projects/blob/main/rockPaperScissorsLizardSpock.py)
+: A simple rock , paper ,scissor,lizard,spock game made in python, You can also run the code here [here](https://repl.it/@GrapeJUICE/rock-paper-scissor-lizard-spock#main.py)
+
 * [Hangman](https://github.com/grapeJUICE1/python-mini-projects/blob/main/hangman.py) : Hangman , which i tried to recreate in python..U can run the code [here](https://repl.it/@GrapeJUICE/HANGMAN-Python#main.py)
 
 * [Hand-cricket](https://github.com/grapeJUICE1/python-mini-projects/blob/main/hand-cricket.py) : The program tries to replicate handcricket..Which is a game where u play cricket using hands..[code repl](https://repl.it/@GrapeJUICE/Handcricket-Python)

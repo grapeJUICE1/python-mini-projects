@@ -1,10 +1,6 @@
 # Python Mini Projects
 
-The repository contains projects i made when i was learning python....
-
-The projects are simple....I know the code is messy! As i was just learning things.
-
-Below is the list of projects....
+The repository contains mini python projects ...
 
 * [Password Generator](https://github.com/grapeJUICE1/python-mini-projects/blob/main/password-generator.py)
 : My first python project..it basically asks for number of characters , numbers , symbols u want in ur password and generate it for you...U can see the code in action [here](https://repl.it/@GrapeJUICE/Python-Password-Generator)

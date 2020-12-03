@@ -21,6 +21,9 @@ The repository contains mini python projects ...
 
 * [Snake Game](https://github.com/grapeJUICE1/python-mini-projects/blob/main/snake.py) : A snake game made using pygame, I also wrote a blog post which was about pygame where we made this game, check that out [here](https://dev.to/grapejuice/getting-started-with-pygame-making-a-snake-game-2i1g)
 
+* [Alarm clock with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/alarm.py) : Simple alarm clock with GUI made with tkinter... The repl may not work but you can try [here](https://repl.it/@GrapeJUICE/Alarm-Clock#main.py) .. If it does not work , you can always run the code in your ide... A point to note is that it uses winsound which only works on windows.. If you are on mac and linux , you may have to use another library for sound...
+
+
 
 
 

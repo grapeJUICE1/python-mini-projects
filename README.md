@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-The repository contains mini python projects ...
+The repository contains mini python projects ╮(╯3╰)╭...
 
 ## Mini Projects
 

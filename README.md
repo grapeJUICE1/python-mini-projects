@@ -13,11 +13,9 @@ The repository contains mini python projects ...
 |[Hand-cricket](https://github.com/grapeJUICE1/python-mini-projects/blob/main/hand-cricket.py) | The program tries to replicate handcricket..Which is a game where u play cricket using hands.. |    https://repl.it/@GrapeJUICE/Handcricket-Python |
 |[Sudoku Solver](https://github.com/grapeJUICE1/python-mini-projects/blob/main/sudoku-solver.py) | This program solves a valid sudoku board using the backtracking algorithm|    https://repl.it/@GrapeJUICE/Sudoku-Solver |
 |[Blackjack](https://github.com/grapeJUICE1/python-mini-projects/blob/main/blackjack.py)| This program basically tries to replicate blackjack|  https://repl.it/@GrapeJUICE/BLACKJACK#main.py |
-|[Snake Game](https://github.com/grapeJUICE1/python-mini-projects/blob/main/snake.py)|  A snake game made using pygame, I also wrote a blog post which was about pygame where we made this game ,check that out [here](https://dev.to/grapejuice/getting-started-with-pygame-making-a-snake-game-2i1g)|    https://repl.it/@GrapeJUICE/Sudoku-Solver |
-|[Alarm clock with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/alarm.py) | Simple alarm clock with GUI made with tkinter... The repl may not work but you can try.. A point to note is that it uses winsound which only works on windows.. If you are on mac and linux , you may have to use another library for sound...
-| https://repl.it/@GrapeJUICE/Alarm-Clock#main.py |
-|[Currency Converter with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/currency_converter.py)| Currency converter with gui made with python and tkinter... It scrapes content from https://www.iban.com/exchange-rates and gets necessary information for currency conversion...
-|https://repl.it/@GrapeJUICE/SlategraySaneGraphicslibrary#main.py |
+|[Snake Game](https://github.com/grapeJUICE1/python-mini-projects/blob/main/snake.py)|  A snake game made using pygame, I also wrote a blog post which was about pygame where we made this game ,check that out [here](https://dev.to/grapejuice/getting-started-with-pygame-making-a-snake-game-2i1g)| https://repl.it/@GrapeJUICE/Sudoku-Solver |
+|[Alarm clock with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/alarm.py) | Simple alarm clock with GUI made with tkinter... The repl may not work but you can try.. A point to note is that it uses winsound which only works on windows.. If you are on mac and linux , you may have to use another library for sound...| https://repl.it/@GrapeJUICE/Alarm-Clock#main.py |
+|[Currency Converter with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/currency_converter.py)| Currency converter with gui made with python and tkinter... It scrapes content from https://www.iban.com/exchange-rates and gets necessary information for currency conversion...|https://repl.it/@GrapeJUICE/SlategraySaneGraphicslibrary#main.py |
 
 
   

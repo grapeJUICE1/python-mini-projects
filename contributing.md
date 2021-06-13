@@ -3,8 +3,8 @@
 ## Getting started <!-- omit in toc -->
 
 Before you begin:
-- Check out the [existing issues](https://github.com/grapeJUICE1/python-mini-projects/issues) & see if we [accept contributions](#types-of-contributions-memo) for your type of issue.
-
+- Check out the [existing issues](https://github.com/grapeJUICE1/python-mini-projects/issues) ...
+- 
 ### Ready to make a change? Fork the repo
 
 Fork using GitHub Desktop:

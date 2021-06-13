@@ -18,7 +18,13 @@ The repository contains mini python projects ...
 |[Currency Converter with GUI](https://github.com/grapeJUICE1/python-mini-projects/blob/main/currency_converter.py)| Currency converter with gui made with python and tkinter... It scrapes content from https://www.iban.com/exchange-rates and gets necessary information for currency conversion...|https://repl.it/@GrapeJUICE/SlategraySaneGraphicslibrary#main.py |
 
 
-  
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
 
 
 

@@ -51,9 +51,6 @@ For content changes, make sure that you:
 - [ ] Compare your pull request's source changes to staging to confirm that the output matches the source and that everything is rendering as expected. This helps spot issues like typos, content that doesn't follow the style guide, or content that isn't rendering due to versioning problems. Remember that lists and tables can be tricky.
 - [ ] Review the content for technical accuracy.
 
-### Pull request template
-When you open a pull request, you must fill out the "Ready for review" template before we can review your PR. This template helps reviewers understand your changes and the purpose of your pull request.
-
 ## Windows
 
 This site can be developed on Windows, however a few potential gotchas need to be kept in mind:
